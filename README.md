@@ -8,10 +8,10 @@ This repository contains practical Python scripts and notes based on the Black H
 ## 📘 Table of Contents
 
 - [Chapter 1: Setting Up Your Python Environment]()
-- [Chapter 2: Basic Networking Tools](./Chapter%201.%20Basic%20Networking%20Tools/)⏳
-  - [TCP Client](./Chapter%201.%20Basic%20Networking%20Tools/tcp_client.py)✅
-  - [UDP Client](./Chapter%201.%20Basic%20Networking%20Tools/udp_client.py)✅
-  - [Replacing Netcat](./Chapter%201.%20Basic%20Networking%20Tools/replacing_netcat.py)✅ 
+- [Chapter 2: Basic Networking Tools](./Chapter%202.%20Basic%20Networking%20Tools/)⏳
+  - [TCP Client](./Chapter%202.%20Basic%20Networking%20Tools/tcp_client.py)✅
+  - [UDP Client](./Chapter%202.%20Basic%20Networking%20Tools/udp_client.py)✅
+  - [Replacing Netcat](./Chapter%202.%20Basic%20Networking%20Tools/replacing_netcat.py)✅ 
   - [Building a TCP Proxy](./tcp_proxy.py)✅
   - [SSH with Paramiko](./ssh_paramiko.py)⏳
   - [SSH Tunneling](./ssh_tunneling.py)⏳
