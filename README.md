@@ -15,7 +15,7 @@ This repository contains practical Python scripts and notes based on the Black H
   - [Building a TCP Proxy](./Chapter%202.%20Basic%20Networking%20Tools/tcp_proxy.py)✅
   - [SSH with Paramiko](./Chapter%202.%20Basic%20Networking%20Tools/ssh_with_paramiko/)✅
   - [SSH Tunneling](./Chapter%202.%20Basic%20Networking%20Tools/ssh_tunneling.py)✅
-- [Chapter 3: Writing a Sniffer](#chapter-3-writing-a-sniffer)⏳
+- [Chapter 3: Writing a Sniffer](./Chapter%203.%20Writing%20a%20Sniffer/sniffer.py)✅
 - [Chapter 4: Owning the Network with Scapy](#chapter-4-owning-the-network-with-scapy)⏳
 - [Chapter 5: Web Hackery](#chapter-5-web-hackery)⏳
 - [Chapter 6: Extending Burp Proxy](#chapter-6-extending-burp-proxy)⏳
